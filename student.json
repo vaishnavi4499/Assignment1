@@ -1,0 +1,57 @@
+[
+    {
+    "rollnumber":"1",
+    "name":"Vaishnavi",
+    "mark1":95,
+    "mark2":80,
+    "mark3":90,
+    "total":"",
+    "grade":""
+},
+{
+    "rollnumber": "2",
+    "name": "Srinivas",
+    "mark1": 65,
+    "mark2": 75,
+    "mark3": 50,
+    "total": "",
+    "grade": ""
+
+},
+{
+    "rollnumber": "4",
+    "name": "Alex",
+    "mark1": 21,
+    "mark2": 84,
+    "mark3": 84,
+    "total": "",
+    "grade": ""
+},
+{
+    "rollnumber": "5",
+    "name": "Danial",
+    "mark1": 65,
+    "mark2": 48,
+    "mark3": 90,
+    "total": "",
+    "grade": ""
+},
+{
+    "rollnumber": "6",
+    "name": "Hinata Hyuga",
+    "mark1": 87,
+    "mark2": 54,
+    "mark3": 56,
+    "total": "",
+    "grade": ""
+},
+{
+    "rollnumber": "7",
+    "name": "Naruto uzumaki",
+    "mark1": 75,
+    "mark2": 54,
+    "mark3": 66,
+    "total": "",
+    "grade": ""
+}
+]

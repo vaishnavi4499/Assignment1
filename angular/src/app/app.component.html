@@ -1,0 +1,32 @@
+<div class="container">
+<div class="striped">
+ <div id="div1">
+   <h4>
+  Student Grade Card
+</h4>
+</div>
+  
+  <table >
+    <tr >
+      <th>RollNumber</th>
+      <th>Name</th>
+      <th>Subject 1</th>
+      <th>Subject 2</th>
+      <th>Subject 3</th>
+      <th>Total</th>
+      <th>Grade</th>
+    </tr>
+    <tr *ngFor="let data of studentdata">
+      <th>{{data.rollnumber}}</th>
+      <th>{{data.name}}</th>
+      <th>{{data.mark1}}</th>
+      <th>{{data.mark2}}</th>
+      <th>{{data.mark3}}</th>
+      <th>{{data.total}}</th>
+      <th>{{data.grade}}</th>
+    </tr>
+  </table>
+</div>
+</div>
+  
+  

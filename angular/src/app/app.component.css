@@ -1,0 +1,25 @@
+
+#div1:hover {
+color :rgb(41, 49, 151)
+}
+
+h4 {
+  text-shadow: 2px 2px 5px rgb(151, 151, 151);
+  text-align: center;
+  
+}
+table {
+  border: 5px 5px 5px 5px rgb(187, 30, 30);
+  border-radius: 25px;
+  width: 100%;
+  text-align: center;
+}
+
+th, td {
+  text-align: left;
+  padding: 15px;
+}
+
+tr:nth-child(even){background-color: #dfd9d9}
+
+
